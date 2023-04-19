@@ -1,4 +1,4 @@
-# spotifyPlayedSong
+# spotify Played Song
 
 ## README for Get Data from Spotify Script
 This script allows you to access data from your Spotify account using the Spotipy library. Specifically, the script provides two functions:
