@@ -27,5 +27,5 @@ Note that you may be prompted to log in to your Spotify account when running the
 ## Dependencies
 This script relies on the Spotipy library, which can be installed via pip. To install Spotipy, run the following command in your terminal:
 
-Copy code
-pip install spotipy
+
+`pip install spotipy`
